@@ -1,0 +1,70 @@
+
+body{
+ background-color: #ff7171;
+ margin: 0;
+ padding: 0;
+}
+#particles-js{
+background-image: url(abc.jpg);
+background-size: cover;
+background-attachment: fixed;
+
+}
+h1{
+  font-size: 200%;
+  color: white;
+  font-family: inherit;
+}
+h3{
+
+  color: white;
+  font-family: inherit;
+}
+
+
+
+
+.redbutton {
+   background: rgba(255, 0, 0, 0.96);
+   background-image: -webkit-linear-gradient(top, rgba(255, 0, 0, 0.96), #4F1B1B);
+   background-image: -moz-linear-gradient(top, rgba(255, 0, 0, 0.96), #4F1B1B);
+   background-image: -ms-linear-gradient(top, rgba(255, 0, 0, 0.96), #4F1B1B);
+   background-image: -o-linear-gradient(top, rgba(255, 0, 0, 0.96), #4F1B1B);
+   background-image: -webkit-gradient(to bottom, rgba(255, 0, 0, 0.96), #4F1B1B);
+   -webkit-border-radius: 24px;
+   -moz-border-radius: 24px;
+   border-radius: 24px;
+   height: 9px;
+   line-height: 9px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   width: 200px;
+   font-size: 27px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: -3px 2px 12px 2px #000000;
+   -moz-box-shadow: -3px 2px 12px 2px #000000;
+   box-shadow: -3px 2px 12px 2px #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: dashed #000000 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+
+
+}
+
+.redbutton:hover {
+   border: solid #ED3333 1px;
+   background: #811616;
+   background-image: -webkit-linear-gradient(top, #811616, #931A1A);
+   background-image: -moz-linear-gradient(top, #811616, #931A1A);
+   background-image: -ms-linear-gradient(top, #811616, #931A1A);
+   background-image: -o-linear-gradient(top, #811616, #931A1A);
+   background-image: -webkit-gradient(to bottom, #811616, #931A1A);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
